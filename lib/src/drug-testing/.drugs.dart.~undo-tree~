@@ -1,0 +1,5 @@
+(undo-tree-save-format-version . 1)
+"3bab6d3f0fe5f651cac659caabe42d5ead1f94b0"
+[nil nil nil nil (25206 53839 185538 158000) 0 nil]
+([nil current ((6 . 10) (#("Drugs" 0 5 (fontified t face font-lock-type-face)) . -6) (undo-tree-id0 . -5) (undo-tree-id1 . -5) (undo-tree-id2 . -5) 11 (10 . 11) (#("t" 0 1 (fontified t face font-lock-type-face)) . -10) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (#("s" 0 1 (fontified t face font-lock-type-face)) . -11) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) 12 (10 . 12) (1 . 10) (t 25206 53838 467462 700000)) nil (25206 53860 165944 931000) 0 nil])
+nil
